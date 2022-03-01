@@ -10,6 +10,10 @@ mysql -p
 密碼
 root123
 ```
+# mysql
+```
+use test
+```
 # 連線資訊
 ```
 

@@ -16,7 +16,7 @@ use test
 ```
 # 連線資訊
 ```
-
+![image] (https://github.com/4080E68/database2/blob/main/count.PNG?raw=true)
 ssh h568@db.vexp.idv.tw
 Unix:L#3Maf5mR
 Psql:P#3Maf5mr

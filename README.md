@@ -37,4 +37,4 @@ address char(100)
 insert into main values('aaa','男性','19700211','06-123456','0933123233','abc@gmail.com','台南市ooxx');
 
 ```
-![image](https://github.com/4080E68/database2/blob/main/count.PNG)
+

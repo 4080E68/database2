@@ -10,6 +10,7 @@
 
 ## 交集、聯集參考表
 ![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集1.PNG)
+
 ![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集2.PNG)
 
 ## 交集、聯集、IN

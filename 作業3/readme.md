@@ -9,9 +9,9 @@
 
 
 ## 交集、聯集參考表
-![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集1.PNG)
+![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集3.PNG)
 
-![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集2.PNG)
+![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集4.PNG)
 
 ## 交集、聯集、IN
 ### 交集
@@ -20,3 +20,5 @@
 ![image](https://github.com/4080E68/database2/blob/main/作業3/images/聯集結果.PNG)
 ### in
 ![image](https://github.com/4080E68/database2/blob/main/作業3/images/in作業.PNG)
+## view
+![image](https://github.com/4080E68/database2/blob/main/作業3/images/view作業.PNG)

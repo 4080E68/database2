@@ -17,7 +17,7 @@
 ### 交集
 ![image](https://github.com/4080E68/database2/blob/main/作業3/images/交集結果.PNG)
 ### 聯集
-![image](https://github.com/4080E68/database2/blob/main/作業3/images/聯集結果.PNG)
+![image](https://github.com/4080E68/database2/blob/main/作業3/images/聯集結果1.PNG)
 ### in
 ![image](https://github.com/4080E68/database2/blob/main/作業3/images/in作業.PNG)
 ## view

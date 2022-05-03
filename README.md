@@ -21,6 +21,7 @@ ssh h568@db.vexp.idv.tw
 Unix:L#3Maf5mR
 Psql:P#3Maf5mr
 Mysql:My^4DqPam
+wordpress:PbXE*EqD5ByojKHJSr
 
 ```
 ```

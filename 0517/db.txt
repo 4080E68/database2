@@ -1,0 +1,22 @@
+create table auser
+(
+    mobile char(10) primary key,
+    name char(10),
+    pwd char(40),
+    email varchar(255),
+    addr    text,
+    remark text
+
+);
+create table auser2
+(
+    mobile char(10) primary key,
+    name char(10),
+    pwd char(40),
+    pwd2 char(40),
+    email varchar(255),
+    addr    text,
+    remark text
+
+);
+insert into auser values('09123456','123','123','123','123@123','123','123');
